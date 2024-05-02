@@ -1,2 +1,2 @@
 # First CSS Practice 
-goo luck
+good luck
